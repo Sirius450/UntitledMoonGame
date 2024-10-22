@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30e22f1d420a95f4daca9aeab0cfa734, type: 3}
+  m_Name: RoomOfTomesTutorial
+  m_EditorClassIdentifier: 
+  actorName: Room of Tomes Sign
+  actorPortrait: {fileID: 21300000, guid: 163b6069de47e544da594ab9bf81f67e, type: 3}
+  textBlocks:
+  - 'This room is central to the Moon Palace. Its walls are covered in rows of ancient
+    tomes of knowledge regarding this realm and its influence on earth. '
+  - Every once in a while, a prompt will invite you to dive in some of the grimoires
+    in the shelves, to deepen your knowledge about the game's world and satisfy your
+    lore savvy brain's hunger.

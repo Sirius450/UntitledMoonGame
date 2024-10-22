@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30e22f1d420a95f4daca9aeab0cfa734, type: 3}
+  m_Name: CrystalOfInvocationTutorial
+  m_EditorClassIdentifier: 
+  actorName: Crystal of Invocation Sign
+  actorPortrait: {fileID: 21300000, guid: 163b6069de47e544da594ab9bf81f67e, type: 3}
+  textBlocks:
+  - You just got off the astral train and are now in the Moon Palace, the central
+    hub of this game. Welcome to your new job!
+  - It's not here right now, but at the center of this tiled floor will eventually
+    rotate the ever brighter Crystal of Invocation, the link between realms. You'll
+    be able to atune with it for mysterious purposes.
+  - If you find yourself curious to know to basic controls of this game, head on
+    over to Jimmy the parrot just north of me and he'll tell you all about it!

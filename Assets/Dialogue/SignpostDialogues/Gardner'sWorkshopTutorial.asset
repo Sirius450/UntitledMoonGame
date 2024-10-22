@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30e22f1d420a95f4daca9aeab0cfa734, type: 3}
+  m_Name: Gardner'sWorkshopTutorial
+  m_EditorClassIdentifier: 
+  actorName: Gardner's Workshop Sign
+  actorPortrait: {fileID: 21300000, guid: 163b6069de47e544da594ab9bf81f67e, type: 3}
+  textBlocks:
+  - The gardner comfortably takes care of her plants in this very workshop.
+  - 'The dreams and nightmares you''ll find yourself roaming are often host to the
+    strangest species of flora. '
+  - The Gardner will gladly take any specimen you bring back from your voyages to
+    transform them into useful concoctions with the help of her brewer companion,
+    who'se propensity to get lost in his head, aided by the fumes of some of the
+    herbs surrounding him, makes him a rather semi reliable ally.

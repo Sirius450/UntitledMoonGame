@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30e22f1d420a95f4daca9aeab0cfa734, type: 3}
+  m_Name: CrescentThroneTutorial
+  m_EditorClassIdentifier: 
+  actorName: Crescent Throne Sign
+  actorPortrait: {fileID: 21300000, guid: 3828944a9a403124d93f20b9ffcd1365, type: 3}
+  textBlocks:
+  - You stand on the holy grounds of the Moon Goddess' Throne.
+  - She has been kidnapped by an unknown entity and your role is to roam the dreams
+    and nightmares of the earth's denizens to uncover the truth about her disappearing.
